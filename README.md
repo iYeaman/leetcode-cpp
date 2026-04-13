@@ -15,15 +15,15 @@ I solve problems to improve my DSA skills and prepare for technical interviews.
 
 ## Repository Structure
 ├── Array/  
-├── Two-Pointers/   
-├── Sliding-Window/ 
+├── Two-Pointers/  
+├── Sliding-Window/  
 ├── Stack/  
 ├── Linked-List/    
 ├── Tree/   
 ├── Graph/  
 ├── Heap/   
 ├── Dynamic-Programming/    
-├── Greedy/ 
+├── Greedy/  
 ├── Backtracking/   
 ├── Bit-Manipulation/   
 └── README.md   
