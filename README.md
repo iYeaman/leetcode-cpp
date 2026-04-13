@@ -14,18 +14,19 @@ I solve problems to improve my DSA skills and prepare for technical interviews.
 ---
 
 ## Repository Structure
-├── Array/
-├── Two-Pointers/
-├── Sliding-Window/
-├── Stack/
-├── Linked-List/
-├── Tree/
-├── Graph/
-├── Heap/
-├── Dynamic-Programming/
-├── Greedy/
-├── Backtracking/
-└── README.md
+├── Array/  
+├── Two-Pointers/   
+├── Sliding-Window/ 
+├── Stack/  
+├── Linked-List/    
+├── Tree/   
+├── Graph/  
+├── Heap/   
+├── Dynamic-Programming/    
+├── Greedy/ 
+├── Backtracking/   
+├── Bit-Manipulation/   
+└── README.md   
 
 Each file is named as: `XXXX-Problem-Name.cpp`
 
