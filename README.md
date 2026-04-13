@@ -45,6 +45,7 @@ Each file is named as: `XXXX-Problem-Name.cpp`
 ```bash
 g++ -std=c++17 solution.cpp -o solution
 ./solution
+```
 
 ---
 
